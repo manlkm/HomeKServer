@@ -140,6 +140,9 @@ www
 ### Customized configs ###
 src/resources/config.properties
 
+### Maven build ###
+target
+
 ### Eclipse setting ###
 .project
 .classpath
